@@ -1,0 +1,117 @@
+======================== SUB-7 ========================
+
+1	Tommy Szeliga	1
+2	Bingliang Li (李炳良)	1
+
+
+======================== SUB-8 ========================
+
+1	Brandon Lin	7
+2	Tommy Szeliga	2
+3	Daniel Rose-Levine	2
+4	Bingliang Li (李炳良)	1
+5	Andrea Santambrogio	1
+6	Charlie Stark	1
+7	Zijia Feng (冯子甲)	1
+8	Benjamin Gottschalk	1
+
+
+======================== SUB-9 ========================
+
+1	Brandon Lin	13
+2	Tommy Szeliga	9
+3	Charlie Stark	6
+4	Daniel Rose-Levine	4
+5	Zijia Feng (冯子甲)	4
+6	Emanuel Rheinert	4
+7	Rui-Jun Liu (劉睿鈞)	3
+8	Bingliang Li (李炳良)	2
+9	Lakshay Modi	2
+10	Sophie Chan	2
+11	Raúl Low Beattie	2
+12	Ruzhen Ye (叶儒臻)	2
+13	Ben Yu (虞润川)	2
+14	Andrea Santambrogio	1
+15	Benjamin Gottschalk	1
+16	Fernando Lomazzi	1
+17	Christopher Chi	1
+18	Robert Yau	1
+19	Jose Carlos García Vélez	1
+20	Alexey Zharikov	1
+21	Nathan Dwyer	1
+22	Sam Nave	1
+23	Patrick Ponce	1
+24	Vicenzo Guerino Cecchini	1
+25	Calvin Nielson	1
+26	Anant Pingle	1
+27	Clément Cherblanc	1
+28	Ty Marshall	1
+29	Rowe Hessler	1
+
+
+======================== SUB-10 ========================
+
+1	Brandon Lin	33
+2	Tommy Szeliga	26
+3	Bingliang Li (李炳良)	15
+4	Rowe Hessler	12
+5	Charlie Stark	10
+6	Jayden McNeill	9
+7	Zijia Feng (冯子甲)	8
+8	Lakshay Modi	8
+9	Rui-Jun Liu (劉睿鈞)	8
+10	Emanuel Rheinert	8
+11	Daniel Rose-Levine	7
+12	Raúl Low Beattie	6
+13	Simon Crawford	6
+14	Ty Marshall	5
+15	Michael Young	5
+16	Sophie Chan	4
+17	Alexey Zharikov	4
+18	Nathan Dwyer	4
+19	Patrick Ponce	4
+20	Brian Johnson	4
+21	Fernando Lomazzi	3
+22	Ruzhen Ye (叶儒臻)	3
+23	Sam Nave	3
+24	Firstian Fushada	3
+25	Blake Thompson	3
+26	Daniel Karnaukh	3
+27	Christopher Chi	2
+28	Robert Yau	2
+29	Ben Yu (虞润川)	2
+30	Harry Savage	2
+31	Daniel Wallin	2
+32	Sergey Chirin	2
+33	Yongyi Xiong (熊永一)	2
+34	Corey Sakowski	2
+35	Andrea Santambrogio	1
+36	Benjamin Gottschalk	1
+37	Jose Carlos García Vélez	1
+38	Vicenzo Guerino Cecchini	1
+39	Calvin Nielson	1
+40	Anant Pingle	1
+41	Clément Cherblanc	1
+42	Walker Welch	1
+43	Michał Halczuk	1
+44	Ng Jian Je (方健泽)	1
+45	Chung-Han Hsu (許鍾瀚)	1
+46	Fabio Schwandt	1
+47	Junyue Liu (刘俊越)	1
+48	Neil Johnson	1
+49	Nikita Kovalchuk (Нікіта Ковальчук)	1
+50	Miguel Angel Puerta Simarra	1
+51	Ustsin Vashchanka	1
+52	Thomas Valles	1
+53	Antoine Cantin	1
+54	Zixuan Liu (刘子瑄)	1
+55	Andrea Moscatello	1
+56	Ainesh Sevellaraja	1
+57	Ivan Vanek	1
+58	Alex Maass	1
+59	Diego Brizuela Crespo	1
+60	Luigi Soriano	1
+61	Sebastian Werb	1
+62	Piotr Michał Padlewski	1
+63	Ming Zheng (郑鸣)	1
+64	Israel Parada	1
