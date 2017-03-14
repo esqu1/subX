@@ -5,4 +5,17 @@ This was a Python script I quickly wrote up to create a list of competitors in t
 
 Currently in Python, so script runs a bit slowly.
 
-Will try to expand to generalizing to any event and any times.
+Using the Script
+====
+Run in Terminal:
+
+`$ python subX.py <event_name> <time>`
+
+
+Changelog
+====
+
+3/12/17
+=====
+- Generalized the subX script.
+- Takes input arguments through terminal.
